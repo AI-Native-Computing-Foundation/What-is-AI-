@@ -1,2 +1,5 @@
-# What-is-AI-
-This repository focuses on the basics of AI and how AI works
+# What-is-AI
+ The word AI means Artificial Intelligence. Seems interesting, right?
+
+ Yes, it is! 
+In general, it's actually 
